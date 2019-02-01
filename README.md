@@ -1,6 +1,6 @@
 Serval Mesh README
 ==================
-[Serval Project][], March 2014
+[Serval Project][], March 2019
 
 [Serval Mesh][] (also called “Batphone”) is an app for [Android 2.2 “Froyo”][]
 and above.  It provides free, secure phone-to-phone voice calling, SMS and file
